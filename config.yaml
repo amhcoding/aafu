@@ -9,6 +9,7 @@ title: Alexander Hauschel's Portfolio
 permalinks:
     posts: /:year/:month/:slug/
     page: /:slug/
+    blog : /blog/:slug/
 
 params:
   author: Alexander Hauschel
