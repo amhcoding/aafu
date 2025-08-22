@@ -6,6 +6,10 @@ title: Alexander Hauschel's Portfolio
 # Uncomment below to use aafu as hugo theme. See instructions in README.md
 # theme: aafu
 
+permalinks:
+    posts: /:year/:month/:slug/
+    page: /:slug/
+
 params:
   author: Alexander Hauschel
   description: Portfolio
