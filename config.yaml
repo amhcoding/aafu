@@ -127,11 +127,11 @@ params:
     icon: fas fa-cogs
     list:
       - skill: Empathy
-        skillrating: 90
+        skillrating: 95
       - skill: Collaboration
         skillrating: 80
       - skill: Problem-solving
-        skillrating: 75
+        skillrating: 80
   hobby:
     title: Hobbies
     icon: fas fa-gamepad
@@ -139,4 +139,5 @@ params:
       - hobby: Cooking
       - hobby: Beach volleyball
       - hobby: Pickleball
+      - hobby: Video games
       - hobby: Line dancing
