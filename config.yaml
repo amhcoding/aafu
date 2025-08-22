@@ -25,7 +25,7 @@ params:
     name: "Alex Hauschel"
     tagline: Lifelong Learner
     location: "Sarasota, FL"
-    photo: /img/profile.jpg
+    photo: profile.jpg
   social:
     title: Links
     list:
