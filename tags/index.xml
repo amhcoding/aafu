@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on aafu theme</title>
+    <title>Tags on Alexander Hauschel&#39;s Portfolio</title>
     <link>https://darshanbaral.github.io/aafu/tags/</link>
-    <description>Recent content in Tags on aafu theme</description>
+    <description>Recent content in Tags on Alexander Hauschel&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 19 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://darshanbaral.github.io/aafu/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Laoreet</title>
+      <link>https://darshanbaral.github.io/aafu/tags/laoreet/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://darshanbaral.github.io/aafu/tags/laoreet/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mollis Urna</title>
+      <link>https://darshanbaral.github.io/aafu/tags/mollis-urna/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://darshanbaral.github.io/aafu/tags/mollis-urna/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Notes</title>
+      <link>https://darshanbaral.github.io/aafu/tags/notes/</link>
+      <pubDate>Sat, 16 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>https://darshanbaral.github.io/aafu/tags/notes/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Css</title>
       <link>https://darshanbaral.github.io/aafu/tags/css/</link>
@@ -34,27 +55,6 @@
       <link>https://darshanbaral.github.io/aafu/tags/themes/</link>
       <pubDate>Sat, 19 Nov 2022 00:00:00 +0000</pubDate>
       <guid>https://darshanbaral.github.io/aafu/tags/themes/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Laoreet</title>
-      <link>https://darshanbaral.github.io/aafu/tags/laoreet/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://darshanbaral.github.io/aafu/tags/laoreet/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mollis Urna</title>
-      <link>https://darshanbaral.github.io/aafu/tags/mollis-urna/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://darshanbaral.github.io/aafu/tags/mollis-urna/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Notes</title>
-      <link>https://darshanbaral.github.io/aafu/tags/notes/</link>
-      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://darshanbaral.github.io/aafu/tags/notes/</guid>
       <description></description>
     </item>
   </channel>
