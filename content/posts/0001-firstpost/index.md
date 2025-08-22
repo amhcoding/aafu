@@ -20,4 +20,4 @@ While this lifestyle change has benefitted me in many aspects of life, one thing
 
 Ideally, I would like to take a trip down to Key West and camp along the State Parks until we reach there. I have been researching the following locations:
 
-![Bahia Honda State Park Campground] (buttonwood-campground-bahia-honda-state-park.jpg)
+![Bahia Honda State Park Campground](img.jpg)
