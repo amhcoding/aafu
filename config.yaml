@@ -1,4 +1,4 @@
-baseURL: /
+baseURL: https://hauschelmedia.com/
 languageCode: en-us
 build:
   writeStats: true
