@@ -1,7 +1,7 @@
 +++
 title = "Summer in Sarsota"
 date = 2025-08-22
-draft = true
+draft = false
 +++
 
 ## Introduction
