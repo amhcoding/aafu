@@ -2,6 +2,8 @@
 title: "Summer in Sarsota"
 date: 2025-08-22
 draft: false
+summary: "A quick check-in to the mind of Alex. An impromptu reflection of the past few years."
+
 ---
 
 ## Introduction
@@ -21,3 +23,4 @@ While this lifestyle change has benefitted me in many aspects of life, one thing
 Ideally, I would like to take a trip down to Key West and camp along the State Parks until we reach there. I have been researching the following locations:
 
 ![Bahia Honda State Park Campground](buttonwood-campground-bahia-honda-state-park.jpg)
+*A campsite  at Bahia Honda State Park, beautifully located along Highway 1.*
