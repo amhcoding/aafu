@@ -15,3 +15,9 @@ Fast forward a few years, I am now 26 years old, working full-time and outside o
 ## Need for Adventure
 
 While this lifestyle change has benefitted me in many aspects of life, one thing I do miss from that time period was the adventure and adrenaline I was constantly living with in my daily life. Now that I work an entry-level full-time job 9-5 M-F, I have little time to get adventurous. Weekends are thoughtfully planned out weeks ahead in order to make the most of my free time. For some reason, my brain has been hungry for a reconnection with nature. Although I have gone on some fun trips into nature, I have yet to fully immerse myself in it. So I am seeking your advice, what should I do? Where should I go to fufill that desire? Let me know your thoughts [alex@hauschelmedia.com](mailto:alex@hauschelmedia.com).
+
+### Plan A: Camping in the Keys
+
+Ideally, I would like to take a trip down to Key West and camp along the State Parks until we reach there. I have been researching the following locations:
+
+![Bahia Honda State Park Campground] (/images/buttonwood-campground-bahia-honda-state-park.jpg)
