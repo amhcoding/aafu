@@ -30,8 +30,8 @@ jobs:
         with:
           node-version: "24"
 
-      - name: Install Pagefind CLI
-        run: npm install -g @pagefind
+      - name: Install Pagefind globally
+        run: npm install -g @pagefind/cli
 
       - name: Build Hugo site and run Pagefind
         run: |
